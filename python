@@ -1,0 +1,8 @@
+-------------
+import pandas as pd
+def hora()
+    a = pd.to_datetime(1490195805, unit='s')
+    return str(a.time())
+hora()
+-------------
+
